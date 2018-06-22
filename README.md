@@ -1,5 +1,5 @@
 # laravel-redis-socket
-Send real time notification to the user using laravel, redis and socket.io and using database
+Send real time notification to the user using laravel, redis and socket.io and without database
 
 First, after clone you have to create one virtual host.
 
